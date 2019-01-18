@@ -18,7 +18,7 @@ def even(x):
     return x / 2
 
 number = 0
-LAWD = 0
+lawd = 0
 
 for x in range(1, 1000000):
     value = DetermineValue(x)

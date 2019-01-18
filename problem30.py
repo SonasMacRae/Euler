@@ -9,7 +9,7 @@ def check(x):
 
 total = 0
 
-for i in range(1, 10000000):
+for i in range(2, 10000000):
     if check(i) == True:
         total += i
 print total
